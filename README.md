@@ -1,5 +1,7 @@
 # graalvm-js-npe
 
+https://github.com/oracle/graal/issues/7625
+
 ```console
 2023-10-20T13:24:28.422+02:00 ERROR 16752 --- [nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.ExceptionInInitializerError] with root cause
 
